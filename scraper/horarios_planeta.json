@@ -1,0 +1,170 @@
+[
+    {
+        "rota": "Anchieta X Guarapari Via B. Horizonte [CONV]",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Anchieta X Vitória via ES-060/Vila Velha [CONV]",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Cachoeiro de Itapemirim X Guarapari BR 101/Anchieta [EXEC PARADOR/CONV]",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Guarapari X Anchieta Via B. Horizonte [CONV]",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Guarapari X Cachoeiro de Itapemirim BR 101/Anchieta [EXEC PARADOR/CONV]",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Guarapari X Jaqueira BR 101 [CONV]",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Jaqueira X Guarapari BR 101 [CONV]",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Marataizes X Aeroporto (Via Rodoviária de Vitória) [EXEC] (PARALISADA)",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Marataízes X Vitória Via Anchieta / Guarapari  [EXEC PARADOR/CONV]",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Vitória X Anchieta via ES-060/Vila Velha [CONV]",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Vitória X Marataízes Via Anchieta [EXECUTIVO] (PARALISADA)",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Vitória X Marataízes Via Guarapari / Anchieta [EXEC PARADOR/CONV]",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Vitória X Piuma [CONVENCIONAL] (PARALISADO)",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    },
+    {
+        "rota": "Vitória X Rodoshopping (Rodoviária de Guarapari) - ( PARALISADO)",
+        "dias": "Diariamente",
+        "horarios": [
+            "13:10",
+            "18:35",
+            "06:20",
+            "10:00",
+            "18:20",
+            "08:00"
+        ]
+    }
+]

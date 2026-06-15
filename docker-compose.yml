@@ -1,0 +1,28 @@
+services:
+  scraper:
+    build:
+      context: .
+      dockerfile: Dockerfile.playwright
+    image: scraper_onibus_playwright:latest
+    container_name: scraper_onibus_app
+    volumes:
+       - ./scraper:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+
+  mysql:
+    image: mariadb:11
+    container_name: horarios-db
+    environment:
+      MARIADB_ROOT_PASSWORD: root
+      MARIADB_DATABASE: horarios
+      MARIADB_USER: horarios
+      MARIADB_PASSWORD: horarios
+    ports:
+       - "3308:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+
+volumes:
+  mysql_data:
