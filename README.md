@@ -83,7 +83,7 @@ POST /horarios/import
 
 Executa a importação dos dados extraídos pelo scraper.
 
-🗄 Banco de Dados
+Banco de Dados
 
 O projeto utiliza:
 
@@ -128,7 +128,7 @@ pip install -r requirements.txt
 
 python scraper.py
 
-📖 Aprendizados
+Aprendizados:
 
 Durante o desenvolvimento deste projeto foram aplicados conceitos importantes de backend, incluindo:
 
@@ -139,7 +139,8 @@ Persistência utilizando Prisma ORM
 Modelagem de banco de dados
 APIs REST
 Organização de projeto em múltiplos serviços
-👨‍💻 Autor
+
+Autor:
 
 Paulo Layber
 
