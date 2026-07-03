@@ -1,12 +1,62 @@
-Tecnologias
-Node.js
-NestJS
-TypeScript
-Prisma ORM
-MariaDB
-Python
-Docker
-REST API
+# BusFlow
+
+Sistema desenvolvido para automatizar a coleta, armazenamento e disponibilização de horários de ônibus.
+
+O projeto utiliza **Web Scraping** para extrair os horários diretamente do site da empresa de transporte, processa os dados e os disponibiliza através de uma API REST construída com **NestJS**.
+
+> Projeto desenvolvido com foco em arquitetura backend, automação de dados e boas práticas utilizando Node.js.
+
+---
+
+# Objetivo
+
+O BusFlow nasceu para resolver um problema comum:
+
+Os horários de ônibus normalmente ficam disponíveis apenas em páginas HTML pouco estruturadas, dificultando consultas, integrações e reutilização dos dados.
+
+O sistema automatiza esse processo em três etapas:
+
+1. Coleta dos horários através de Web Scraping
+2. Tratamento e normalização dos dados
+3. Disponibilização através de uma API REST
+
+---
+
+#  Arquitetura
+
+```
+
+```
+          Site da empresa
+                 │
+                 ▼
+        Python Web Scraper
+                 │
+          JSON Processado
+                 │
+                 ▼
+         Importação (NestJS)
+                 │
+                 ▼
+             MariaDB
+                 │
+                 ▼
+           API REST (NestJS)
+```
+
+
+
+
+
+Tecnologias:
+ Node.js
+ NestJS
+ TypeScript
+ Prisma ORM
+ MariaDB
+ Python
+ Docker
+ REST API
 
  Funcionalidades
 - Extração automática de horários
