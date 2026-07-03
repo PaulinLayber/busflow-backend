@@ -8,22 +8,6 @@ Python
 Docker
 REST API
 
-Estrutura do projeto
-busflow/
-
-├── backend/
-│   ├── src/
-│   │   ├── horarios/
-│   │   ├── database/
-│   │   └── ...
-│   ├── prisma/
-│   └── Dockerfile
-│
-├── scraper/
-│   ├── scraper.py
-│   └── horarios_planeta.json
-│
-└── docker-compose.yml
  Funcionalidades
 - Extração automática de horários
 - Importação de dados para banco
